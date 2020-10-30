@@ -7,7 +7,7 @@
 4. this README.md file
 
 ## Requirements
-Using the data provided on the 249 mice included in the study of several drug regimens to treat skin cancer, generate tables and figures needed for the technical report on the study. From these tables and figures, arrive at the high level summary of the study results.
+Using the data provided on the 249 mice included in the study of several drug regimens to treat skin cancer, generate tables and figures needed for the technical report on the study. From these tables and figures, arrive at a high level summary of the study results.
 
 ## Algorithm
 1. Study the data files and combine into a single data file.
